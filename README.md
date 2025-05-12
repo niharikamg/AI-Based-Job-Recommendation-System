@@ -4,12 +4,12 @@
 This project is an **AI-powered job recommendation system** built with **Spring Boot, Python (ML), and PostgreSQL**. It analyzes **resumes and job descriptions** to match candidates with the best-fit job roles using **Natural Language Processing (NLP) and AI**.
 
 ## 🚀 Features
-- ✅ **AI-Powered Job Matching** – Uses AI to recommend jobs based on resumes.
-- ✅ **Resume Parsing** – Extracts skills and experience from PDFs/DOCX files.
-- ✅ **NLP for Job Descriptions** – Processes job descriptions using **TF-IDF/BERT**.
-- ✅ **Job Fit Score** – Calculates how well a candidate matches a job.
-- ✅ **REST API for Integration** – Can be used by **recruitment platforms**.
-- ✅ **Docker Support** – Easily deploy using Docker Compose.
+- **AI-Powered Job Matching** – Uses AI to recommend jobs based on resumes.
+- **Resume Parsing** – Extracts skills and experience from PDFs/DOCX files.
+- **NLP for Job Descriptions** – Processes job descriptions using **TF-IDF/BERT**.
+- **Job Fit Score** – Calculates how well a candidate matches a job.
+- **REST API for Integration** – Can be used by **recruitment platforms**.
+- **Docker Support** – Easily deploy using Docker Compose.
 
 ## 🏗️ Tech Stack
 - **Backend:** Java (Spring Boot)  
