@@ -91,9 +91,4 @@ POST /api/jobs/recommend
 - 🤖 **Better AI Model** with Deep Learning (BERT, GPT)  
 
 ---
-
-💡 **Author:** [Your Name]  
-🔗 **GitHub:** [Your GitHub Link]  
-📧 **Contact:** [Your Email]  
-
-🚀 **Like this project? Star it on GitHub!** ⭐  
+ 
